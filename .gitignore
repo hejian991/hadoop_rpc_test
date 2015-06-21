@@ -1,0 +1,14 @@
+*.iml
+*.bak
+/.idea/
+dictionaries/
+logs/
+out/
+build/
+.DS_Store/
+target/
+*.log
+.classpath
+.settings
+/hadoop_rpc_test.iml
+/target/
